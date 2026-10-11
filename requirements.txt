@@ -1,0 +1,9 @@
+# Environment used for the measurements (Windows 11, Python 3.14, NVIDIA RTX 3050 6 GB, CUDA 12.8)
+torch==2.11.0          # CUDA 12.8 build: https://pytorch.org/get-started/locally/
+transformers==5.17.0
+accelerate==1.15.0
+bitsandbytes==0.50.2   # only needed for 4-bit models
+datasets==5.0.1
+numpy==2.4.6
+pandas==3.0.3
+matplotlib==3.10.9

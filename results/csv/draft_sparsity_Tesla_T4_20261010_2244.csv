@@ -1,0 +1,7 @@
+device,target,draft,active_frac,a,a_all,draft_ms,T1_ms,T2_ms,c,c_lt_a,speed_k1
+Tesla T4,Qwen/Qwen2.5-1.5B,Qwen/Qwen2.5-0.5B,1.0,0.776,0.841,31.5,37.7,35.5,0.836,False,0.999
+Tesla T4,Qwen/Qwen2.5-1.5B,Qwen/Qwen2.5-0.5B,0.7,0.777,0.839,32.3,37.7,35.5,0.857,False,0.988
+Tesla T4,Qwen/Qwen2.5-1.5B,Qwen/Qwen2.5-0.5B,0.5,0.771,0.833,32.2,37.7,35.5,0.854,False,0.986
+Tesla T4,Qwen/Qwen2.5-1.5B,Qwen/Qwen2.5-0.5B,0.4,0.759,0.827,41.5,37.7,35.5,1.101,False,0.861
+Tesla T4,Qwen/Qwen2.5-1.5B,Qwen/Qwen2.5-0.5B,0.3,0.747,0.814,32.8,37.7,35.5,0.87,False,0.964
+Tesla T4,Qwen/Qwen2.5-1.5B,Qwen/Qwen2.5-0.5B,0.2,0.701,0.783,32.6,37.7,35.5,0.865,False,0.942
